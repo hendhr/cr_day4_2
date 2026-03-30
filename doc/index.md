@@ -9,5 +9,5 @@ documentation.
 :caption: Contents:
 some-feature.md
 another-feature.md
-flower.md
+flower.ipynb
 ```
